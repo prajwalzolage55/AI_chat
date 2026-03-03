@@ -1,9 +1,10 @@
-numpy
-langchain
-langchain_groq
-langchain_core
-langchain_community
-pymongo
 fastapi
 uvicorn
+jinja2
+langchain
+langchain_core
+langchain_groq
+langchain_community
+pymongo
+python-dotenv
 python-multipart
