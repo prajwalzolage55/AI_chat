@@ -112,5 +112,5 @@ Open your browser and navigate to: **`http://127.0.0.1:8000`**
 ---
 
 <div align="center">
-  <p>Developed with ❤️ by <a href="https://portfolio-r7ct-seven.vercel.app">Prajwal Zolage</a> &middot; AI/ML Engineer</p>
+  <p>Developed with ❤️ by <a href="https://portfolio-r7ct-seven.vercel.app">Prajwal Zolage</a> &middot; AI&DS Student</p>
 </div>
